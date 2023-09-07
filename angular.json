@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "digitalsoft"
+  "defaultProject": "digitalsoft",
+  "cli": {
+    "analytics": "de8ec827-a20f-4e48-b59d-c63566beaa9b"
+  }
 }
